@@ -1,3 +1,6 @@
+This project is currently being migrated and updated. Expected release:
+2013-26-04.
+
 JQuery Perspectives
 ===================
 An HTML5+JQuery plugin enabling users to dynamically view content according to
