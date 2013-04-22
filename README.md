@@ -24,8 +24,9 @@ Usage
 ```HTML
 <div class="p">
   Text for everyone. <span data-perspective="coding">Text for
-  coders. </span>On to another topic. <span data-perspective="coding
-  operations">Mention something for coders and/or admins.</span>
+  coders. </span>On to another topic.
+  <span data-perspective="coding operations">Mention something for coders
+  and/or admins.</span>
 </div>
 <div class="p" data-perspective="coding&operations">
   Notice the '&'? This paragraph is visible when both the 'coding' and
