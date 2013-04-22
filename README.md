@@ -5,16 +5,16 @@ one or more perspectives.
 
 Installation
 ------------
-1. [Grab the latest.](https://github.com/DogFoodSoftware/jquery-perspectives/archive/master.zip)
-2. Put the 'jquery.perspectives.js' file where the webserver can serve it.
-3. Include the plugin on your page:
+1.  [Grab the latest.](https://github.com/DogFoodSoftware/jquery-perspectives/archive/master.zip)
+2.  Put the 'jquery.perspectives.js' file where the webserver can serve it.
+3.  Include the plugin on your page:
         <script src="/path/to/jquery.perspectives.js"></script>
 
 Usage
 -----
-1. Tell the control widget where to attach:
+1.  Tell the control widget where to attach:
         <div class="perspective-manager" />
-2. Add perspectives:
+2.  Add perspectives:
         <div class="p">
           Text for everyone. <span data-perspective="coding">Text for
           coders. </span>On to another topic.
