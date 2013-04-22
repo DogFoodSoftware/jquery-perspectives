@@ -20,6 +20,7 @@ Usage
 <div class="perspective-manager" />
 ```
 2. Add perspectives:
+
 ```HTML
 <div class="p">
   Text for everyone. <span data-perspective="coding">Text for
@@ -27,7 +28,7 @@ Usage
   operations">Mention something for coders and/or admins.</span>
 </div>
 <div class="p" data-perspective="coding&operations">
-  Notice the '&amp;'? This paragraph is visible when both the 'coding' and
+  Notice the '&'? This paragraph is visible when both the 'coding' and
   'operations' perspectives are selected.
 </div>
 ```
