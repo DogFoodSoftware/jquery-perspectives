@@ -1,5 +1,5 @@
-This project is currently being migrated and updated. *Expected release:
-2013-26-04.*
+This project is currently being migrated and updated. **Expected release:
+2013-26-04.**
 
 JQuery Perspectives
 ===================
