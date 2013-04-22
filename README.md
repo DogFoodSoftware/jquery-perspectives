@@ -38,3 +38,11 @@ Usage
       'operations' perspectives are selected.
     </div>
     ```
+
+<!--
+Thanks to clintel for demonstrating how to combine fenced code with ordered
+lists:
+
+https://gist.github.com/clintel/1155906
+
+-->
