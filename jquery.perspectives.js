@@ -1,3 +1,5 @@
+alert('jquery.perspectives not yet ready for indepdent distribution');
+
 // start with a closure to bind '$' to jQuery and scope further variables
 (function($) {
     // define templates first; this is a Kibbles thing
