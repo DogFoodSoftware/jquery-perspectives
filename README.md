@@ -1,12 +1,15 @@
 JQuery Perspectives
 ===================
 An HTML5+JQuery plugin enabling users to dynamically view content according to
-one or more perspectives.
+one or more perspectives. Use `data-perspective` to specify the nature of the
+content. E.g., embed and interleave 'developer' and 'sysops' notes in the same
+document while allowing viewers to focus on the information they need.
 
-Demo
-----
-
-Coming soon... shooting for release by June 2013.
+Limitations
+-----------
+The current implementation is limited to a single perspective choice. The next
+version will include the ability to enable multiple perspectives at once. The
+perspective content specification is considered complete.
 
 Installation
 ------------
